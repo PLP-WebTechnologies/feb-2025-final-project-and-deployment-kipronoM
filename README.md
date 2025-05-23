@@ -1,4 +1,6 @@
-# Final Project and Deployment  https://kipronom.github.io/PLP-Web-Assignment-8/
+https://kipronom.github.io/PLP-Web-Assignment-8/
+
+# Final Project and Deployment  
 
 ## Objectives
 Build a fully functional web application.
